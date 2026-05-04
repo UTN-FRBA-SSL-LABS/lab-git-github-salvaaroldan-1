@@ -14,6 +14,7 @@ int restar(int a, int b) {
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 //Pasa dos variables enteras y las devuelve multiplicadas.
+//Esta funcion recibe dos enteros y devuelve el producto de los mismos.
 int multiplicar(int a, int b) {
     return a * b; 
 }
